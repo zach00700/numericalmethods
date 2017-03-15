@@ -5,7 +5,10 @@ Original code provided by Zach Joseph R. Espiritu in fulfillment of the requirem
 for the subject Numerical Methods for Academic Year 2016-2017.
 Based on Numerical Methods by Chapra & Canale.
 
-Feel free to use this code for research purposes. You may modify it, play with it, or improve it (in which case I would encourage you to send me your improvement to the code at zach (underscore) espiritu (at) yahoo (dot) com). However, YOU MAY NOT SUBMIT THIS AS YOUR OWN CODE. 
+Feel free to use this code for research purposes. You may modify it, play with it, or 
+improve it (in which case I would encourage you to send me your improvement to the 
+code at zach (underscore) espiritu (at) yahoo (dot) com). 
+However, YOU MAY NOT SUBMIT THIS AS YOUR OWN CODE.
 
 Disclaimer:  The author of the code, Zach Joseph R. Espiritu, shall not be held 
 responsible for any consequence arising from the use or misuse of this code. 
