@@ -1,5 +1,5 @@
 # numericalmethods
-Numerical methods implemented in C++. Submitted in fulfillemnt of the requirement for the subject Numerical Methods for the Academic Year 2016-2017. Coded and tested on Turbo C++.
+Numerical methods implemented in C++. Submitted in fulfillment of the requirement for the subject Numerical Methods for the Academic Year 2016-2017. Coded and tested on Turbo C++.
 
 Feel free to use this code for research purposes. You may modify it, play with it, or improve it (in which case I would encourage you to send me your improvemet to the code at zach (underscore) espiritu (at) yahoo (dot) com).
 
